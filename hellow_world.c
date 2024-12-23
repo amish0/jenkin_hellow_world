@@ -11,7 +11,7 @@ int main()
     int a=10;
     int b=20;
     int c;
-    printf("test the addition of two number");
+    printf("test a the addition of two number");
     c = add_number(a,b);
     printf("\naddition of two number %d and %d is %d", a, b, c);
     return 0;
